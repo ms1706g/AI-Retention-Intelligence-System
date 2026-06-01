@@ -2,7 +2,8 @@
 
 ## Overview
 
-An end-to-end retention analytics platform that combines SQL analytics, Streamlit dashboards, and Gemini AI to identify churn drivers, analyze user behavior, and generate automated business recommendations.
+AI-powered retention intelligence platform integrating SQL analytics, Streamlit dashboards, and Gemini AI to identify churn drivers, generate automated business recommendations, and improve customer retention strategies.
+
 
 ## Features
 
